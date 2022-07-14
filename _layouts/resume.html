@@ -68,6 +68,11 @@
       <!-- end Experience -->
       {% endif %}
 
+      {% capture text %}
+      Hello I am wrong and won't work
+      {% endcapture %}
+{% include card.html header="" text=text %}
+
 
       {% if site.resume_section_education %}
       <!-- begin Education -->
