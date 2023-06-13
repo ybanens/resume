@@ -1,16 +1,25 @@
 # Degree
-- degree: Bachelor of Laws (Honours First Class)
+- degree: Bachelor of Laws (Honours)
   uni: Griffith University
   year: 2018 &mdash; 2022
   awards:
+    - award: Honours First Class
     - award: University Medal, 2022
     - award: Griffith Law School Dean's Thesis Award, 2022
     - award: Griffith Law School Dean's Award for Academic Excellence, 2022
     - award: Grifith Award for Academic Excellence 2018-2022
   summary: Law Students Association Competitions Director 2020-2022
 
-- degree: Bachelor of Arts (Liberal Studies) (Honours)
+- degree: Graduate Diploma of Education
+  uni: Griffith University
+  year: 2014
+  awards:
+   - award: Grifith Award for Academic Excellence 
+
+- degree: Bachelor of Arts (Liberal Studies)
   uni: Flinders University
   year: 1993 &mdash; 1996
-  award: Chancellor's Letter of Commendation
-  summary: "Honours thesis &mdash; Ok Tedi and Freeport: A comparative political ecology"
+  awards:
+   - award: Honours First Class
+   - award: Chancellor's Letter of Commendation
+  summary: 'Honours thesis &mdash; Ok Tedi and Freeport: A comparative political ecology'
